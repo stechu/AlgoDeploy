@@ -1,4 +1,4 @@
-How to run a private Algorand Network
+How to run a private Algorand network
 =====================================
 
 1. Install Algorand, to make sure you installed correctly, check:
