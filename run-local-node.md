@@ -20,7 +20,7 @@ This will create a root folder for your blockchain, under the root folder, it wi
 
 3. Now, we start the network:
 ```
-goal network start -n <your_network_name> -r <your_blockchain_folder>
+goal network start -r <your_blockchain_folder>
 ```
 This will start the network.
 To test whether your start the network sucessfully, you can run `carpenter`:
