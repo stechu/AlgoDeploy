@@ -14,4 +14,6 @@
    `address:port`
 7. In each other machine, say node 2, run:
    `goal node start -d ./lbvrf-stable/Node_2 -p address:port`
+8. For perf test, run something like:
+   `pingpong run -t 550 --rest 1 -d ./Node_1/ >perf_log &`
  
